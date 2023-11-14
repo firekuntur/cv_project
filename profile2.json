@@ -1,19 +1,12 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "JC Arauz",
+    "label": "Security Engineer",
     "image": "",
     "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
     "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "summary": "I am a results-driven cybersecurity professional with expertise in effective communication, relationship-building, and cybersecurity skills. With experience in mentoring teams, conducting customer meetings, and advising clients, I excel at delivering expert insights and fostering trust. Proficient in data analysis and scripting, I ensure timely project completion and high customer satisfaction. As a native Spanish speaker, I bring bilingual proficiency to my work, enabling effective communication in diverse environments",
+    "location": "Utah",
     "profiles": [{
       "network": "Twitter",
       "username": "john",
